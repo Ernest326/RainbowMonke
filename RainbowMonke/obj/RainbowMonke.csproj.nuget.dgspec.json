@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Visual Studio Projects\\RainbowMonke\\RainbowMonke.csproj": {}
+    "F:\\RainbowMonke\\RainbowMonke\\RainbowMonke\\RainbowMonke.csproj": {}
   },
   "projects": {
-    "F:\\Visual Studio Projects\\RainbowMonke\\RainbowMonke.csproj": {
+    "F:\\RainbowMonke\\RainbowMonke\\RainbowMonke\\RainbowMonke.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Visual Studio Projects\\RainbowMonke\\RainbowMonke.csproj",
+        "projectUniqueName": "F:\\RainbowMonke\\RainbowMonke\\RainbowMonke\\RainbowMonke.csproj",
         "projectName": "RainbowMonke",
-        "projectPath": "F:\\Visual Studio Projects\\RainbowMonke\\RainbowMonke.csproj",
+        "projectPath": "F:\\RainbowMonke\\RainbowMonke\\RainbowMonke\\RainbowMonke.csproj",
         "packagesPath": "C:\\Users\\Ernest Warzuchowski\\.nuget\\packages\\",
-        "outputPath": "F:\\Visual Studio Projects\\RainbowMonke\\obj\\",
+        "outputPath": "F:\\RainbowMonke\\RainbowMonke\\RainbowMonke\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

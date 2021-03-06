@@ -18,6 +18,8 @@ namespace RainbowMonke
 		private Color color = new Color(0, 0, 0);
 		private float hue = 0f;
 		private float timer = 0f;
+		private float updateRate = 1 / 4;
+		private float updateTimer = 0;
 
 		private void Awake()
 		{
@@ -34,6 +36,8 @@ namespace RainbowMonke
 
 		public void Update()
 		{
+			updateTimer += Time.deltaTime;
+
 			if(PhotonNetworkController.instance.isPrivate)
 			{
 				if (enabled.Value)
@@ -55,6 +59,14 @@ namespace RainbowMonke
 
 						hue += cycleSpeed.Value;
 						color = Color.HSVToRGB(hue, 1.0f * glowAmount.Value, 1.0f * glowAmount.Value);
+					}
+
+					if(updateTimer > updateRate)
+					{
+						updateTimer = 0;
+					} else
+					{
+						return;
 					}
 
 					GorillaTagger.Instance.UpdateColor(this.color.r, this.color.g, this.color.b);

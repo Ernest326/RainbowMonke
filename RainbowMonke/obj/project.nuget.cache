@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i8QhBohoLW6is82apUq7m2P+wHgJc1T4XBEd0XOBwD+0mVvHqXYQQr3SirRMbhCWkIFv2I6wAOR5kP4pCJ2tmQ==",
+  "dgSpecHash": "zm7vmfqSwNk358yn7xbErUFA49jKKSRqzACvmdz22qiS2U/q1IavDyIiUxAh5+V1u2xNBPeX/8iOe1hgth5X7Q==",
   "success": true,
-  "projectFilePath": "F:\\Visual Studio Projects\\RainbowMonke\\RainbowMonke.csproj",
+  "projectFilePath": "F:\\RainbowMonke\\RainbowMonke\\RainbowMonke\\RainbowMonke.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
