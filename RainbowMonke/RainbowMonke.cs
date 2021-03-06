@@ -18,7 +18,7 @@ namespace RainbowMonke
 		private Color color = new Color(0, 0, 0);
 		private float hue = 0f;
 		private float timer = 0f;
-		private float updateRate = 1 / 4;
+		private float updateRate = 0.25f;
 		private float updateTimer = 0;
 
 		private void Awake()
