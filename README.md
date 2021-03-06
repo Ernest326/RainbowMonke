@@ -15,4 +15,5 @@
 <ul>
 <li>This mod also has settings such as <code>Cycle Speed</code>, <code>Random Colour</code> and <code>Brightness</code></li>
 <li>These settings can be found in the config file at <code>BepInEx\config\RainbowMonke.cfg</code></li>
+  <li>The mod can also be <code>Disabled/Enabled</code> in the config</li>
 </ul>
