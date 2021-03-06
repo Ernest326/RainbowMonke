@@ -1,4 +1,3 @@
-# RainbowMonke
 <h1>Rainbow Monke Mod</h1>
 <p>This is a mod for gorilla tag which can be run using <a href="https://github.com/DeadlyKitten/MonkeModManager/releases/tag/v1.2.0">Monke Mod Manager</a></p>
 <h1>Instructions</h1>
